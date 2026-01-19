@@ -1,6 +1,11 @@
 ---
 manufacturer:
-    - huawei
+    - huaweiadb shell /data/app/~~eayakIepG-xjQ90_e6WSgg==/moe.shizuku.privileged.api-Kcv1FJt0q8OnlU3aQ0Rt2w==/lib/arm64/libshizuku.so
+
+
+
+
+    
 
 ---
 
